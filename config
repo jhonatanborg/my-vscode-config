@@ -1,0 +1,22 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Users\\jhona\\AppData\\Local\\Programs\\Git\\bin\\bash.exe",
+    "editor.mouseWheelZoom": true,
+    "workbench.colorTheme": "Palenight Italic",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.associations": {
+    
+    
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontWeight": "500",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "Cascadia Code",
+    "git.autofetch": true,
+    "workbench.preferredDarkColorTheme": "Andromeda",
+    "workbench.preferredHighContrastColorTheme": "Andromeda",
+    "workbench.preferredLightColorTheme": "Andromeda",
+    "window.menuBarVisibility": "visible"
+}
