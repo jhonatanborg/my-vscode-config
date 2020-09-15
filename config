@@ -57,3 +57,67 @@
   "files.autoSave": "off"
 }
 
+
+{
+  "window.customMenuBarAltFocus": false,
+  "window.doubleClickIconToClose": true,
+  "terminal.integrated.fontSize": 22,
+  "window.zoomLevel": 1,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "editor.mouseWheelZoom": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "workbench.iconTheme": "material-icon-theme",
+  "files.associations": {
+    "*.vue": "vue"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "git.enableSmartCommit": true,
+  "git.path": "'C:\\ProgramFiles\\Git\\bin\\git.exe'",
+  "workbench.colorTheme": "Palenight Operator",
+  "spotify.forceWebApiImplementation": true,
+  "editor.formatOnType": true,
+  "window.openFilesInNewWindow": "off",
+  "explorer.confirmDelete": false,
+  "vetur.format.defaultFormatter.html": "prettier", // Work well with prettier only
+  "vetur.format.defaultFormatterOptions": {
+    "prettyhtml": {
+      "tabWidth": 2,
+      "useTabs": false,
+      "printWidth": 80,
+      "singleQuote": false,
+      "wrapAttributes": true,
+      "sortAttributes": true
+    }
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontWeight": "500",
+  "terminal.integrated.shell.linux": "/bin/bash",
+  "git.fetchOnPull": true,
+  "git.enableCommitSigning": false,
+  "extensions.ignoreRecommendations": false,
+  "workbench.activityBar.visible": true,
+  "files.autoSave": "off",
+  "launch": {},
+  "workbench.preferredDarkColorTheme": "Palenight Operator",
+  "workbench.preferredHighContrastColorTheme": "Palenight Operator",
+  "workbench.preferredLightColorTheme": "Palenight Operator",
+  "window.menuBarVisibility": "visible",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.codeActionsOnSave": null
+}
+
